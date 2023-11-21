@@ -1,16 +1,11 @@
 # flutter_ssru_map
+##### การพัฒนาแอปพลิเคชันนำทางภายในมหาวิทยาลัยราชภัฏสวนสุนันทา
+##### (Suan Sunandha Rajabhat University Navigator Application Development)
 
-A new Flutter project.
+โครงงานนี้เป็นการพัฒนาเกี่ยวกับแอปพลิเคชันนำทางภายในมหาวิทยาลัยราชภัฏสวนสุนันทา โดยมีวัตถุประสงค์เพื่อ 1) การพัฒนาแอปพลิเคชันระบบนำทางภายในมหาวิทยาลัยราชภัฏสวนสุนันทา 2) เพื่อช่วยนำทางนักศึกษาหรือครูอาจารย์มหาวิทยาลัยราชภัฏสวนสุนันทา และนักศึกษาที่เข้าใหม่ สามารถเดินทางไปยังสถานที่ต่าง ๆ ภายในมหาวิทยาลัยราชภัฏสวนสุนันทาได้อย่างถูกต้อง 3) เพื่อศึกษาความพึงพอใจของผู้ใช้ที่มีต่อประสิทธิภาพของแอปพลิเคชันนำทางภายในมหาวิทยาลัยราชภัฏสวนสุนันทา 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ทีมผู้พัฒนา
+1. นายธันวบัณฑิต ยศคำลือ
+2. นายปัญญพัฒน์ เพียงพิมาย
+## อาจารย์ที่ปรึกษา 
+ผศ.รุจิจันทร์ วิชิวานิเวศน์
