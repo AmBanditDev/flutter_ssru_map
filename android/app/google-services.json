@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14926756061",
+    "project_id": "flutter-ssru-map",
+    "storage_bucket": "flutter-ssru-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14926756061:android:c3760e74311ba84aa98334",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ssru_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14926756061-ngaf68uslsk0spefpsu063da297su3ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB14C6Z3MbQ8RVA6lSb0UVY3fbtqKyEJJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14926756061-ngaf68uslsk0spefpsu063da297su3ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
